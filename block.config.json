@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "14Sep_Block1": {
-      "directory": "14Sep_Block1"
+      "directory": "14Sep_Block1",
+      "versionId": "_HYz17GweTqyO2LUeOB4U",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.3",
+  "versionId": "sYBVB6VEaupy_dhaVxvxC"
 }
