@@ -1,0 +1,16 @@
+{
+  "name": "14Sep",
+  "type": "package",
+  "blockId": "WvIcHO6jPDvUxa1BwUics",
+  "source": {
+    "https": "https://github.com/grgshiji/14Sep.git",
+    "ssh": "git@github.com:grgshiji/14Sep.git",
+    "branch": "block_14Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
